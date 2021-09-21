@@ -8,7 +8,7 @@
 		<version>2.4.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.softtech.personalitytest</groupId>
+	<groupId>com.mb.personalitytest</groupId>
 	<artifactId>pt-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pt-backend</name>
